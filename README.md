@@ -1,1 +1,2 @@
-# Django_inventory_management_project_practice
+# Project Video Youtube Link:
+https://youtu.be/vfsKKpTqEOs
